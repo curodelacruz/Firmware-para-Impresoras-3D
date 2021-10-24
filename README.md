@@ -1,4 +1,4 @@
-# Marlin 3D Printer Firmware
+# Marlin 3D Para Impresoras 3D cartesianas con Arduino Mega, Ramps 1.4 y Drivers TMC2203
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
