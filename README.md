@@ -7,8 +7,9 @@ Para trabajar con placas Arduino Mega, Ramps 1.4 y Drivers TMC2208 (Silenciosos)
 
 ## Requerimientos:
 
-*Libreria U8glib
-*Librerias TMC2208
+* Libreria U8glib
+
+* Librerias TMC2208
 
 En algunas ocasiones se requiere la version 1.8.5 de Arduino.
 
