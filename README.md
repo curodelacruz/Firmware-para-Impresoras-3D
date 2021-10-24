@@ -5,11 +5,12 @@
 Esta es una adptación del proyecto original Marlin [Marlin Home Page](https://marlinfw.org/).
 Para trabajar con placas Arduino Mega, Ramps 1.4 y Drivers TMC2208 (Silenciosos)
 
-## Marlin 2.0
+## Requerimientos:
 
-Marlin 2.0 takes this popular RepRap firmware to the next level by adding support for much faster 32-bit and ARM-based boards while improving support for 8-bit AVR boards. Read about Marlin's decision to use a "Hardware Abstraction Layer" below.
+*Libreria U8glib
+*Librerias TMC2208
 
-Download earlier versions of Marlin on the [Releases page](https://github.com/MarlinFirmware/Marlin/releases).
+En algunas ocasiones se requiere la version 1.8.5 de Arduino.
 
 ## License
 
