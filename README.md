@@ -3,7 +3,7 @@
 <img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
 Esta es una adptación del proyecto original Marlin [Marlin Home Page](https://marlinfw.org/).
-Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
+Para trabajar con placas Arduino Mega, Ramps 1.4 y Drivers TMC2208 (Silenciosos)
 
 ## Marlin 2.0
 
