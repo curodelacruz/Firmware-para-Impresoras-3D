@@ -1,8 +1,8 @@
-# Marlin 3D Para Impresoras 3D cartesianas con Arduino Mega, Ramps 1.4 y Drivers TMC2208
+# Marlin Para Impresoras 3D cartesianas con Arduino Mega, Ramps 1.4 y Drivers TMC2208
 
 <img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
-Esta es una adptación del proyecto original Marlin [Marlin Home Page](https://marlinfw.org/).
+Esta es una adaptación del proyecto original Marlin [Marlin Home Page](https://marlinfw.org/).
 Para trabajar con placas Arduino Mega, Ramps 1.4 y Drivers TMC2208 (Silenciosos)
 
 ## Requerimientos:
